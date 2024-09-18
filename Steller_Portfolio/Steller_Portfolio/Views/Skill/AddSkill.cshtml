@@ -1,0 +1,24 @@
+﻿@model Steller_Portfolio.Models.TblSkill
+@{
+    ViewBag.Title = "AddSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Yetenek Ekleme Sayfası</h2>
+<form method="post">
+    <label>Yetenek Adı</label>
+    @Html.TextBoxFor(x => x.SkillName, new { @class = "form-control" })
+    <br />
+    <label>Başlık</label>
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    <label>Açıklama</label>
+    @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+    <br />
+    <label>Yüzdelik Değeri</label>
+    @Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+
+    <button class="btn btn-outline-primary">Kaydet</button>
+
+</form>
+

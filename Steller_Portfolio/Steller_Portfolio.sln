@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steller_Portfolio", "Steller_Portfolio\Steller_Portfolio.csproj", "{C7023C97-8568-492C-83E7-6AE56020DDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7023C97-8568-492C-83E7-6AE56020DDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7023C97-8568-492C-83E7-6AE56020DDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7023C97-8568-492C-83E7-6AE56020DDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7023C97-8568-492C-83E7-6AE56020DDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779699D3-33E2-47BA-9E01-0CC5D3C1B949}
+	EndGlobalSection
+EndGlobal

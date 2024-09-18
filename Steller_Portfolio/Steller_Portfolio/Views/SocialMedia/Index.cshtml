@@ -1,0 +1,36 @@
+﻿@model List<Steller_Portfolio.Models.TblSocialMedia> 
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int count = 0;
+}
+
+<h3>Sosyal Medya Sayfası</h3>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>#</th>
+        <th>SosyalMedya Adı</th>
+        
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@item.SocialMediaId</td>
+            <td><a href="@item.Url" target="_blank">@item.SocialMediaName</a></td>
+           
+            
+            <td><a href="/SocialMedia/DeleteSocialMedia/@item.SocialMediaId" class="btn btn btn-outline-danger">SİL</a></td>
+            <td><a href="/SocialMedia/UpdateSocialMedia/@item.SocialMediaId" class="btn btn btn-outline-info">Güncelle</a></td>
+        </tr>
+    }
+
+
+</table>
+
+<br />
+<a href="/SocialMedia/AddSocialMedia" class="btn btn-outline-primary">Yeni Sosyal Medya Bilgisi </a>
+

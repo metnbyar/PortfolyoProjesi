@@ -1,0 +1,24 @@
+﻿@model Steller_Portfolio.Models.TblProject
+@{
+    ViewBag.Title = "AddProject";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Proje Ekleme Sayfası</h2>
+
+<form method="post">
+    <label>Resim Url</label>
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+    <br />
+    <label>Proje Adı</label>
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    <label>Açıklama</label>
+    @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+    <br />
+    <label>Git Hub Linki</label>
+    @Html.TextBoxFor(x => x.GitHubUrl, new { @class = "form-control" })
+
+    <button class="btn btn-outline-primary">Kaydet</button>
+
+</form>

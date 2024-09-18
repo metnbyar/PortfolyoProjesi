@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|c:\\users\\metin\\source\\repos\\steller_portfolio\\steller_portfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\about\\addabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\about\\addabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\feature\\addfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\feature\\addfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\default\\defaultskillpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\default\\defaultskillpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\steller_portfolio\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7023C97-8568-492C-83E7-6AE56020DDD8}|Steller_Portfolio\\Steller_Portfolio.csproj|solutionrelative:steller_portfolio\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFeature.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Feature\\AddFeature.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\Feature\\AddFeature.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Feature\\AddFeature.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\Feature\\AddFeature.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T17:16:42.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Web.config",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Web.config",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Web.config",
+              "RelativeToolTip": "Steller_Portfolio\\Web.config",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-30T14:30:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Global.asax.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:30:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:17.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:13:30.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:14:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\About\\AddAbout.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\About\\AddAbout.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\About\\AddAbout.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\About\\AddAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T17:16:56.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:24.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:26.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:25:37.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\SendMessage.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\Default\\SendMessage.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\SendMessage.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\Default\\SendMessage.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:25:04.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:24:56.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:24:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Steller_Portfolio\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:24:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DefaultSkillPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\DefaultSkillPartial.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\Default\\DefaultSkillPartial.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\Default\\DefaultSkillPartial.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\Default\\DefaultSkillPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:14:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\UILayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Steller_Portfolio\\Views\\UILayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\Steller_Portfolio\\Steller_Portfolio\\Views\\UILayout\\Index.cshtml",
+              "RelativeToolTip": "Steller_Portfolio\\Views\\UILayout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:12:18.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

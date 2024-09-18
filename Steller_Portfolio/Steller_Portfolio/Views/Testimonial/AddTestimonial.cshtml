@@ -1,0 +1,26 @@
+﻿@model Steller_Portfolio.Models.TblTestimonial
+@{
+    ViewBag.Title = "AddTestimonial";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3>Yeni Referans Ekleme Sayfası </h3>
+<br />
+<form method="post">
+    <label>Adı Soyad</label>
+    @Html.TextBoxFor(x => x.NameSurname, new { @class = "form-control" })
+    <br />
+    <label>Unvan</label>
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    <label>Açıklama</label>
+    @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+    <br />
+
+    <label>Resim Url</label>
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-outline-primary">Kaydet</button>
+</form>
+

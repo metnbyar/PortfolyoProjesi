@@ -61,7 +61,6 @@
 
 
 
-### API SAYFASI 
-![s3](https://github.com/user-attachments/assets/afbfa63f-6fb1-4297-8596-7ed68d615941)
+
 
 
